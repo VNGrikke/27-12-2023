@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50;
+}
+h1{
+    color: blue;
+}
+.pad{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.left{
+    margin-left: 10px;
+    background-color: antiquewhite;
+    border-left-style:solid;
+    border-left-color:orange;
+    border-width: 10px;
+
+}
